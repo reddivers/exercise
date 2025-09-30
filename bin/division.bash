@@ -2,6 +2,8 @@
 counter=0
 #set -x
 
+PATH_EXERCISES="/cygdrive/f/Andrea/division.txt"
+PATH_EXERCISES_SOLUTION="/cygdrive/f/Andrea/division_loesungen.txt"
 
 paar(){
  #
